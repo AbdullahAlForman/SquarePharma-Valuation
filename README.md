@@ -1,5 +1,5 @@
 # 🏥 Square Pharmaceuticals PLC — Full Equity Valuation Report
-### `DSE: SQURPHARMA` | Analyst: *Your Name* | Date: May 2026
+### `DSE: SQURPHARMA` | Analyst: *Abdullah Al Forman* | Date: May 2026
 
 <p align="center">
   <img src="https://img.shields.io/badge/Language-Python_3-blue?style=for-the-badge&logo=python" />
@@ -149,10 +149,10 @@ jupyter notebook SquarePharma_Valuation.ipynb
 
 ## 👤 Author
 
-**[Your Name]**  
+**[Abdullah Al Forman]**  
 BBA (Finance) — University of Dhaka  
 📧 datascience189@gmail.com  
-🔗 [LinkedIn](https://linkedin.com/in/yourprofile) | [GitHub](https://github.com/AbdullahAlForman)
+🔗 [LinkedIn](https://www.linkedin.com/in/abdullahalforman) | [GitHub](https://github.com/AbdullahAlForman)
 
 ---
 
